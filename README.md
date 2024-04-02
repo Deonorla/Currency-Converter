@@ -1,3 +1,3 @@
-# flutter_app_1
+# Currency Converter
 
 A new Flutter project.
