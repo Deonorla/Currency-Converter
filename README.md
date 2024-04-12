@@ -1,3 +1,6 @@
-# Currency Converter
+## Currency Converter
 
-A new Flutter project.
+A Flutter application for converting Dollars into the nigerian Naira.
+
+## Snapshot
+
